@@ -1,2 +1,5 @@
+autopep8==1.6.0
+pycodestyle==2.8.0
 PyPDF2==1.26.0
+toml==0.10.2
 XlsxWriter==3.0.2
